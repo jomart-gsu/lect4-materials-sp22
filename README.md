@@ -29,7 +29,7 @@ Output: [0,1]
 
 ## Setup instructions
 Open your terminal (or WSL for PC users), and run the following:
-`git clone https://github.com/jomart-gsu/csc4350-lecture4-materials.git` <-- clone down this Git repo
+`https://github.com/jomart-gsu/lect4-materials-sp22.git` <-- clone down this Git repo
 
 `sudo apt install python3-pip` <-- install pip, the Python package manager (this command may vary slightly for WSL users)
 
