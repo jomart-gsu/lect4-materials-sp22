@@ -38,3 +38,6 @@ Open your terminal (or WSL for PC users), and run the following:
 `pip3 install flask` <-- this is really just to be ready for future lectures, but while we’re here, might as well!
 
 For an easier time with linting, open VSCode and install the [Python extension](https://marketplace.visualstudio.com/items?itemName=ms-python.python). (The link works, but you can do the same from inside the app.)
+
+## Extra time?
+Try one of the unused problems from last week's [interview practice session](https://gist.github.com/jomart-gsu/b6b813949ec6d7ef2e9140e7cd8dfe20)!
